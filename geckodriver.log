@@ -1,0 +1,131 @@
+1569457012262	geckodriver	INFO	geckodriver 0.20.1
+1569457012269	geckodriver	INFO	Listening on 127.0.0.1:64488
+1569457013276	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4x/mmhm6lfd2g9fgm_hyv4r8yg00000gn/T/rust_mozprofile.cSlcY1KLpjMg"
+1569457013887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569457013887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569457013888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569457013888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1569457013997	Marionette	TRACE	Received observer notification profile-after-change
+1569457014113	Marionette	TRACE	Received observer notification command-line-startup
+1569457014113	Marionette	TRACE	Received observer notification nsPref:changed
+1569457014113	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1569457014343	Marionette	TRACE	Received observer notification toplevel-window-ready
+1569457016300	Marionette	TRACE	Received observer notification marionette-startup-requested
+1569457016300	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1569457016331	Marionette	TRACE	All scripts recorded.
+1569457016331	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1569457016331	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1569457016332	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1569457016333	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1569457016333	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1569457016333	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1569457016333	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1569457016333	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1569457016334	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1569457016386	Marionette	INFO	Listening on port 64499
+1569457016387	Marionette	DEBUG	Remote service is active
+1569457016436	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:64569
+1569457016463	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1569457016465	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... t@chrome://marionette/content/server.js:236:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:492:20\n"},null]
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1569458066378	geckodriver	INFO	geckodriver 0.20.1
+1569458066392	geckodriver	INFO	Listening on 127.0.0.1:64968
+1569458067388	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4x/mmhm6lfd2g9fgm_hyv4r8yg00000gn/T/rust_mozprofile.B2S8jzo43nCL"
+1569458068127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569458068127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569458068127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569458068127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1569458068247	Marionette	TRACE	Received observer notification profile-after-change
+1569458068378	Marionette	TRACE	Received observer notification command-line-startup
+1569458068378	Marionette	TRACE	Received observer notification nsPref:changed
+1569458068378	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1569458068654	Marionette	TRACE	Received observer notification toplevel-window-ready
+1569458070635	Marionette	TRACE	Received observer notification marionette-startup-requested
+1569458070636	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1569458070644	Marionette	TRACE	All scripts recorded.
+1569458070644	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1569458070645	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1569458070645	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1569458070647	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1569458070647	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1569458070647	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1569458070647	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1569458070647	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1569458070648	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1569458070720	Marionette	INFO	Listening on port 64979
+1569458070720	Marionette	DEBUG	Remote service is active
+1569458070773	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:65055
+1569458070786	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1569458070787	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... t@chrome://marionette/content/server.js:236:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:492:20\n"},null]
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1569458100079	geckodriver	INFO	geckodriver 0.20.1
+1569458100086	geckodriver	INFO	Listening on 127.0.0.1:65058
+1569458101095	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4x/mmhm6lfd2g9fgm_hyv4r8yg00000gn/T/rust_mozprofile.nU8r1hrCCQ7I"
+1569458101684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569458101684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569458101684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569458101684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1569458101788	Marionette	TRACE	Received observer notification profile-after-change
+1569458101907	Marionette	TRACE	Received observer notification command-line-startup
+1569458101907	Marionette	TRACE	Received observer notification nsPref:changed
+1569458101907	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1569458102133	Marionette	TRACE	Received observer notification toplevel-window-ready
+1569458103853	Marionette	TRACE	Received observer notification marionette-startup-requested
+1569458103854	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1569458103881	Marionette	TRACE	All scripts recorded.
+1569458103882	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1569458103882	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1569458103882	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1569458103885	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1569458103885	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1569458103886	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1569458103886	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1569458103886	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1569458103886	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1569458103935	Marionette	INFO	Listening on port 65069
+1569458103936	Marionette	DEBUG	Remote service is active
+1569458104017	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:65135
+1569458104018	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1569458104019	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... t@chrome://marionette/content/server.js:236:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:492:20\n"},null]
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 98950, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1569465371338	geckodriver	INFO	geckodriver 0.20.1
+1569465371350	geckodriver	INFO	Listening on 127.0.0.1:51254
+1569465372343	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4x/mmhm6lfd2g9fgm_hyv4r8yg00000gn/T/rust_mozprofile.3dF2h8sbNMP8"
+1569465373203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569465373204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569465373204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569465373204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1569465373338	Marionette	TRACE	Received observer notification profile-after-change
+1569465373500	Marionette	TRACE	Received observer notification command-line-startup
+1569465373500	Marionette	TRACE	Received observer notification nsPref:changed
+1569465373500	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1569465373783	Marionette	TRACE	Received observer notification toplevel-window-ready
+1569465375712	Marionette	TRACE	Received observer notification marionette-startup-requested
+1569465375713	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1569465375718	Marionette	TRACE	All scripts recorded.
+1569465375718	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1569465375719	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1569465375719	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1569465375722	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1569465375723	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1569465375723	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1569465375723	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1569465375723	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1569465375724	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1569465375790	Marionette	INFO	Listening on port 51265
+1569465375791	Marionette	DEBUG	Remote service is active
+1569465375890	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:51343
+1569465375915	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1569465375916	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... t@chrome://marionette/content/server.js:236:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:492:20\n"},null]
