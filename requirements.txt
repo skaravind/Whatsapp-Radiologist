@@ -16,7 +16,7 @@ Markdown==3.1.1
 MouseInfo==0.0.4
 numpy==1.17.2
 Pillow==6.1.0
-protobuf==3.9.2
+protobuf==3.15.0
 PyAutoGUI==0.9.47
 PyGetWindow==0.0.7
 PyMsgBox==1.0.7
