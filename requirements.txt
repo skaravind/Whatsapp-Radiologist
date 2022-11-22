@@ -15,7 +15,7 @@ Keras-Preprocessing==1.1.0
 Markdown==3.1.1
 MouseInfo==0.0.4
 numpy==1.17.2
-Pillow==6.1.0
+Pillow==9.3.0
 protobuf==3.9.2
 PyAutoGUI==0.9.47
 PyGetWindow==0.0.7
